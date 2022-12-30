@@ -1,0 +1,6 @@
+**/*.~undo-tree~
+**/.direnv/
+result
+
+**/\#*
+**/.\#*
